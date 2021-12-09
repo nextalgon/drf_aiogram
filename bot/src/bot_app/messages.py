@@ -1,0 +1,1 @@
+start_message = 'hey, i can help you. just send me\n/try_ten\n/try_all'
